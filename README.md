@@ -1,5 +1,5 @@
 # MechaCar_Statistical_Analysis
-## R
+## R - programming language for statistical computing.
 
 ### Study Comparing the MechaCar vs the Competition
 
