@@ -3,7 +3,7 @@
 
 ### Study Comparing the MechaCar vs the Competition
 
-The purpose of this project is to analize metrics from AutosRUs - the MechaCar - because production is suffering troubles that are blocking the manufacturing team progress, so the data analytic has to to review the production data for insights that may help the manufacturing team.
+The purpose of this project is to analize metrics from AutosRUs - the MechaCar - because production is suffering troubles that are blocking the manufacturing team progress, so the data analyst has to to review the production data for insights that may help the manufacturing team.
 
 For this assignment is requiered the following:
 
@@ -23,7 +23,7 @@ For this assignment is requiered the following:
 
 ![image](https://user-images.githubusercontent.com/95327338/162318502-11df332b-83b8-40d8-a487-c5430aed5590.png)
 
-* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
+
 
 
 
